@@ -25,7 +25,7 @@
             <n-button
               strong
               secondary
-              @click="jumpTo('https://github.com/imsyy/Snavigation')"
+              @click="jumpTo('https://github.com/lizihengcz/Snavigation')"
             >
               Github
             </n-button>
